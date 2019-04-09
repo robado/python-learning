@@ -1,3 +1,4 @@
+#! /usr/bin/python
 # 2.4 String formatting
 
 n = 11

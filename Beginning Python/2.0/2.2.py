@@ -1,3 +1,4 @@
+#! /usr/bin/python
 #Lection 2.2 of Beginning Python
 
 science ="SCIENCE"

@@ -1,3 +1,4 @@
+#! /usr/bin/python
 single_quote_str = 'single quotes'
 double_quote_str = "double quotes"
 

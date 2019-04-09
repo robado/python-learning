@@ -1,3 +1,6 @@
+#! /usr/bin/python
+# Here was introduced shebang line. I'm doing on Windows and using PyCharm so it isn't necessary because my Python is
+# already set in settings.
 print(2+2)
 print(32-324)
 print(2 - -5)

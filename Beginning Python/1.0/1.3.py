@@ -1,3 +1,4 @@
+#! /usr/bin/python
 name = "Robert Ridal"
 print(name)
 number = "666"
