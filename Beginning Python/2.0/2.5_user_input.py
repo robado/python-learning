@@ -19,4 +19,3 @@ last_name = last_name.capitalize()
 # I added a dot after middle so it will be a char and a dot
 name_format = "{first} {middle:.1s}. {last}"
 print(name_format.format(first=first_name, middle=middle_name, last=last_name))
-

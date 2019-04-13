@@ -29,11 +29,11 @@ print("This is float {:11.3f}".format(f))
 print("This is float {:011.3f}".format(f))
 
 # Multiple formats
-print("{0} {1} {2}".format(n,f,s))
+print("{0} {1} {2}".format(n, f, s))
 
 # Specific names for formatter
 print("{name} own(s) {amount} of {object}".format(
-    name = "John",
-    amount = 666,
-    object = "BANANAS"
+    name="John",
+    amount=666,
+    object="BANANAS"
 ))

@@ -21,7 +21,7 @@ t = int(input())
 if (t <= -30):
     print("REALLY COLD!")
 if (t < 0):
-    if(t > -30):
+    if (t > -30):
         print("Cold")
 if (t == 0):
     print("Zero")
@@ -29,10 +29,7 @@ if (t > 0):
     if (t < 20):
         print("Cilly")
 if (t >= 20):
-    if(t < 40):
+    if (t < 40):
         print("Hot")
 if (t >= 40):
     print("THIS IS HELL!")
-
-
-

@@ -6,7 +6,7 @@ words = ["Hello", "Worlds", "Goodbye", "Words"]
 
 # While executes the code which is indented while the condition is TRUE
 # for loop loop would look something like this
-#for w in words:
+# for w in words:
 #   print(name)
 
 while index < len(words):

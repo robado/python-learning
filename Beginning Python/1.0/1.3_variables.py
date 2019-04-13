@@ -1,9 +1,11 @@
 #! /usr/bin/python
+# 1.3 Variables
+
 name = "Robert Ridal"
 print(name)
 number = "666"
 print(number)
-a="A"
+a = "A"
 jkleesfdjgkfksfdgfjdk = "asdasdasdm"
 
 _name_ = "IDAL"

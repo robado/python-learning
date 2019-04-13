@@ -1,14 +1,15 @@
 #! /usr/bin/python
+# 2.1 String Manipulation
 single_quote_str = 'single quotes'
 double_quote_str = "double quotes"
 
 sentence = 'I "really" like chocolate'
 sentence2 = "I 'really' like chocolate"
 
-print(sentence )
+print(sentence)
 print(sentence2)
 
-#Backslash
+# Backslash
 sentence_backslash = 'I \'really\' like chocolate'
 sentence_backslash2 = 'I \"really\" like chocolate'
 print(sentence_backslash)

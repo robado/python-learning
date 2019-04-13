@@ -22,19 +22,18 @@ a, b = int(input("a = ")), int(input("b = "))
 if a % b == 0 or b % a == 0:
     print("divisible")
 
-
 # --------------------------------------------------
 # Given input a, b print a/b if b is not equal to zero
 
 a, b = int(input("a= ")), int(input("b= "))
 if b != 0:
-    print(a/b)
+    print(a / b)
 
 # Teahcer
 a, b = int(input("a= ")), int(input("b= "))
-if b != 0: print(a/b)
-if b is not 0: print(a/b)
-if not(b == 0): print(a/b)
+if b != 0: print(a / b)
+if b is not 0: print(a / b)
+if not (b == 0): print(a / b)
 
 # --------------------------------------------------
 # Write a program that given three names prints "equal"

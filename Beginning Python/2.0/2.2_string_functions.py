@@ -1,7 +1,8 @@
 #! /usr/bin/python
-#Lection 2.2 of Beginning Python
+# 2.2 String Functions
+# Lection 2.2 of Beginning Python
 
-science ="SCIENCE"
+science = "SCIENCE"
 apple = "apple"
 banana = "BANANA"
 
