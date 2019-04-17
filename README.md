@@ -6,6 +6,8 @@ I have decided to learn some Python and tracking my progress here in Github soun
 After this course I'm thinking on doing a small project for example 
 program that uses API.
 
+---
+
 Beginning Python
 ----------------
 Beginning Python is a book (or a lesson on learning Python) that I bought online and though 
@@ -18,6 +20,16 @@ how am I progressing.
 **Publisher**: www.PacktPub.com (I think)   
 **Teacher**: Willieam Fiser  
 **Lessons**: Beginning Python
+
+#### My keynotes from this course
+
+I think this was a pretty fun course to learn Python for very beginner. As I have coded before this so many stuff was
+ pretty familiar for example **for loops** or how **if** works. But I must say from this I learned how especially 
+ **Python** works and probably how to start making my own projects with this knowledge.   
+   
+One thing I wish that would have been shown here. It is how to install for example pipenv for every project.
+
+---
 
 ### Other Books of Python 
 These are some lessons that I have and though on studying next!
