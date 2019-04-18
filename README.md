@@ -30,6 +30,22 @@ I think this was a pretty fun course to learn Python for very beginner. As I hav
 One thing I wish that would have been shown here. It is how to install for example pipenv for every project.
 
 ---
+Mastering Python
+----------------
+
+For the next lessons to learn Python I decided to start take this **Masterin Python** because it seems that it can 
+help me to do my own projects! I scrolled fast what does it have and seem that it has a lot for helping to do 
+projects. So I hope that I will learn something from this and can start doing my own projects in Python easier.
+
+Also this lessons are *NOT* in any order, they are all independent and I will see how am I going to do them. Maybe 
+will do all in ascending order but I will have to see. Because if the lessons is something what I know and is no use 
+to me using time on that so i will probably skip those kinda courses!
+
+**Publisher**: www.PacktPub.com (I think)   
+**Teacher**: Daniel Arbuckle
+**Lessons**: Mastering Python
+
+---
 
 ### Other Books of Python 
 These are some lessons that I have and though on studying next!
