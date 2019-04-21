@@ -50,6 +50,7 @@ to me using time on that so i will probably skip those kinda courses!
 ### Other Books of Python 
 These are some lessons that I have and though on studying next!
 
+* ~~Beginning Python by **Packt**~~
 * Deep Learning with Python by **Packt**
 * Expert Python Programming by **Packt**
 * Mastering Python by **Packt**
