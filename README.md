@@ -42,7 +42,7 @@ will do all in ascending order but I will have to see. Because if the lessons is
 to me using time on that so i will probably skip those kinda courses!
 
 **Publisher**: www.PacktPub.com (I think)   
-**Teacher**: Daniel Arbuckle
+**Teacher**: Daniel Arbuckle  
 **Lessons**: Mastering Python
 
 ---
